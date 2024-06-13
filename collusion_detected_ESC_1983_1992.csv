@@ -1,0 +1,67 @@
+from,to,average,threshold,collusion
+Austria,United Kingdom,5.9,4.904999999999996,TRUE
+Belgium,Germany,5.6,4.904999999999996,TRUE
+Cyprus,Greece,10.285714285714286,5.111111111111111,TRUE
+Cyprus,Yugoslavia,6.875,4.888888888888889,TRUE
+Denmark,Germany,6,5.1,TRUE
+Denmark,Sweden,7.9,4.9,TRUE
+Denmark,Yugoslavia,5.444444444444445,4.9,TRUE
+Finland,Italy,8.11111111111111,4.9,TRUE
+France,Israel,5.777777777777778,4.904999999999996,TRUE
+France,United Kingdom,5.4,4.9,TRUE
+Germany,Sweden,5.8,4.9,TRUE
+Germany,United Kingdom,5.5,5,TRUE
+Greece,Cyprus,7.857142857142857,4.875,TRUE
+Greece,France,5.125,5,TRUE
+Greece,Spain,7,5,TRUE
+Israel,United Kingdom,5.333333333333333,5,TRUE
+Israel,Yugoslavia,8,5.116666666666662,TRUE
+Italy,France,5.888888888888889,5.333333333333333,TRUE
+Italy,United Kingdom,6.444444444444445,5.222222222222222,TRUE
+Luxembourg,United Kingdom,5.3,4.9,TRUE
+Norway,Denmark,7.3,4.904999999999996,TRUE
+Norway,Sweden,7.5,4.8,TRUE
+Portugal,Israel,5.111111111111111,4.9,TRUE
+Portugal,Italy,8.444444444444445,5,TRUE
+Spain,Italy,8.555555555555555,5,TRUE
+Sweden,Denmark,5.7,4.9,TRUE
+Sweden,United Kingdom,5.2,4.8,TRUE
+Switzerland,France,6.1,5,TRUE
+Switzerland,Israel,6.444444444444445,5,TRUE
+Switzerland,United Kingdom,5.5,5,TRUE
+Turkey,Italy,6,5,TRUE
+Turkey,Spain,5.8,5,TRUE
+Turkey,Yugoslavia,8,5.1,TRUE
+United Kingdom,Germany,5.1,4.8,TRUE
+United Kingdom,Yugoslavia,5.222222222222222,5.0049999999999955,TRUE
+Yugoslavia,Cyprus,5.125,5,TRUE
+Yugoslavia,Israel,5.375,5,TRUE
+Yugoslavia,Italy,5.75,4.888888888888889,TRUE
+Austria,Ireland,8.11111111111111,5.0049999999999955,TRUE
+Belgium,Ireland,6.777777777777778,4.8,TRUE
+Denmark,Ireland,6.111111111111111,5,TRUE
+Finland,Ireland,5.111111111111111,5,TRUE
+Germany,Ireland,5.555555555555555,4.9,TRUE
+Italy,Ireland,5.125,5,TRUE
+Spain,Ireland,6.555555555555555,4.8,TRUE
+Sweden,Ireland,7.444444444444445,5.2,TRUE
+Switzerland,Ireland,5.222222222222222,4.9,TRUE
+Netherlands,Ireland,6.428571428571429,5.125,TRUE
+Turkey,Ireland,6.666666666666667,4.8,TRUE
+United Kingdom,Ireland,5.333333333333333,5,TRUE
+Iceland,Denmark,6.714285714285714,5.428571428571429,TRUE
+Iceland,Sweden,5.285714285714286,5.142857142857143,TRUE
+Iceland,Yugoslavia,6.857142857142857,5.2928571428571365,TRUE
+Austria,Malta,6,4.9,TRUE
+Belgium,Malta,7,5.1,TRUE
+Germany,Malta,5,4.9,TRUE
+Ireland,Malta,11,5.222222222222222,TRUE
+Italy,Malta,6.5,5.00555555555555,TRUE
+Luxembourg,Malta,11,5.1,TRUE
+Malta,Ireland,8,7.5,TRUE
+Malta,United Kingdom,8,7.5,TRUE
+Portugal,Malta,9.5,5,TRUE
+Spain,Malta,9,4.8,TRUE
+Sweden,Malta,12,5,TRUE
+Switzerland,Malta,5.5,5,TRUE
+Yugoslavia,Malta,5.5,5,TRUE

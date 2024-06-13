@@ -1,0 +1,341 @@
+from,to,average,threshold,collusion
+Austria,Belgium,1.125,5.875,FALSE
+Austria,Denmark,0.75,6,FALSE
+Austria,Finland,0.875,6,FALSE
+Austria,France,1.625,6,FALSE
+Austria,Germany,1.375,6,FALSE
+Austria,Italy,1.875,5.875,FALSE
+Austria,Luxembourg,2.125,5.875,FALSE
+Austria,Monaco,1.25,6,FALSE
+Austria,Norway,1.25,6.125,FALSE
+Austria,Spain,1.5,5.75,FALSE
+Austria,Sweden,1.5714285714285714,6,FALSE
+Austria,Switzerland,3.25,5.75,FALSE
+Austria,Netherlands,1.5,5.875,FALSE
+Austria,United Kingdom,1.875,6,FALSE
+Austria,Yugoslavia,1.25,6,FALSE
+Belgium,Austria,1.875,5.9,FALSE
+Belgium,Denmark,1.25,5.9,FALSE
+Belgium,Finland,2,5.9,FALSE
+Belgium,France,1.7,5.7,FALSE
+Belgium,Germany,1.7,5.8,FALSE
+Belgium,Italy,1.9,5.9,FALSE
+Belgium,Luxembourg,1.3,6,FALSE
+Belgium,Monaco,1.6,5.8,FALSE
+Belgium,Norway,1.2222222222222223,5.904999999999996,FALSE
+Belgium,Spain,1.1,5.904999999999996,FALSE
+Belgium,Sweden,1.625,5.8,FALSE
+Belgium,Switzerland,1.2,5.9,FALSE
+Belgium,Netherlands,0.5,6.0049999999999955,FALSE
+Belgium,United Kingdom,2.6,5.9,FALSE
+Belgium,Yugoslavia,1.3,5.9,FALSE
+Denmark,Austria,0.25,7,FALSE
+Denmark,Belgium,0,7,FALSE
+Denmark,Finland,1.5,6.762499999999989,FALSE
+Denmark,France,0,6.75,FALSE
+Denmark,Germany,0,7,FALSE
+Denmark,Italy,1.25,7,FALSE
+Denmark,Luxembourg,0.75,7.25,FALSE
+Denmark,Monaco,0,7,FALSE
+Denmark,Norway,1.25,6.75,FALSE
+Denmark,Spain,0,6.75,FALSE
+Denmark,Sweden,2.6666666666666665,7.25,FALSE
+Denmark,Switzerland,1,6.762499999999989,FALSE
+Denmark,Netherlands,0.25,6.762499999999989,FALSE
+Denmark,United Kingdom,1.25,6.75,FALSE
+Denmark,Yugoslavia,0,6.75,FALSE
+Finland,Austria,1.375,6,FALSE
+Finland,Belgium,1.5555555555555556,5.777777777777778,FALSE
+Finland,Denmark,2,5.777777777777778,FALSE
+Finland,France,0.8888888888888888,5.888888888888889,FALSE
+Finland,Germany,1.1111111111111112,5.888888888888889,FALSE
+Finland,Italy,1.7777777777777777,5.777777777777778,FALSE
+Finland,Luxembourg,2.111111111111111,5.777777777777778,FALSE
+Finland,Monaco,1.6666666666666667,5.777777777777778,FALSE
+Finland,Norway,1.2222222222222223,5.777777777777778,FALSE
+Finland,Spain,1.7777777777777777,5.777777777777778,FALSE
+Finland,Sweden,2.75,6,FALSE
+Finland,Switzerland,1.4444444444444444,5.672222222222217,FALSE
+Finland,Netherlands,1.6666666666666667,5.888888888888889,FALSE
+Finland,United Kingdom,3.2222222222222223,5.777777777777778,FALSE
+Finland,Yugoslavia,0.7777777777777778,5.888888888888889,FALSE
+France,Austria,1.75,5.8,FALSE
+France,Belgium,1.2,5.9,FALSE
+France,Denmark,0,5.7,FALSE
+France,Finland,0.7777777777777778,6.1,FALSE
+France,Germany,1.7,5.8,FALSE
+France,Italy,1.7,5.8,FALSE
+France,Luxembourg,2.2,5.8,FALSE
+France,Monaco,2.4,5.9,FALSE
+France,Norway,0.8888888888888888,6,FALSE
+France,Spain,2.1,5.9,FALSE
+France,Sweden,1,5.8,FALSE
+France,Switzerland,1.8,5.8,FALSE
+France,Netherlands,1.9,5.8,FALSE
+France,United Kingdom,3.4,6,FALSE
+France,Yugoslavia,1.3,5.9,FALSE
+Germany,Austria,1.875,5.8,FALSE
+Germany,Belgium,1,5.8,FALSE
+Germany,Denmark,0.5,5.7,FALSE
+Germany,Finland,1,5.7,FALSE
+Germany,France,1.7,5.9,FALSE
+Germany,Italy,1.6,5.904999999999996,FALSE
+Germany,Luxembourg,2.8,5.8,FALSE
+Germany,Monaco,1.8,5.8,FALSE
+Germany,Norway,1.3333333333333333,5.8,FALSE
+Germany,Spain,2.5,5.9,FALSE
+Germany,Sweden,1,5.704999999999996,FALSE
+Germany,Switzerland,1.7,5.8,FALSE
+Germany,Netherlands,1.1,5.7,FALSE
+Germany,United Kingdom,2.6,5.9,FALSE
+Germany,Yugoslavia,1.5,5.8,FALSE
+Italy,Austria,2.875,5.8,FALSE
+Italy,Belgium,0.9,5.8,FALSE
+Italy,Denmark,0.5,5.8,FALSE
+Italy,Finland,0.6666666666666666,5.9,FALSE
+Italy,France,1.4,5.8,FALSE
+Italy,Germany,1.6,5.8,FALSE
+Italy,Luxembourg,1.9,5.8,FALSE
+Italy,Monaco,1.5,5.8,FALSE
+Italy,Norway,1,5.9,FALSE
+Italy,Spain,1.5,6,FALSE
+Italy,Sweden,1.125,5.7,FALSE
+Italy,Switzerland,1.7,5.7,FALSE
+Italy,Netherlands,1.2,5.8,FALSE
+Italy,United Kingdom,1.9,5.804999999999995,FALSE
+Italy,Yugoslavia,0.8,5.9,FALSE
+Luxembourg,Austria,1.5,5.9,FALSE
+Luxembourg,Belgium,0.9,5.804999999999995,FALSE
+Luxembourg,Denmark,2.5,5.8,FALSE
+Luxembourg,Finland,1,5.9,FALSE
+Luxembourg,France,2.1,5.9,FALSE
+Luxembourg,Germany,1.3,5.8,FALSE
+Luxembourg,Italy,1.8,5.7,FALSE
+Luxembourg,Monaco,1.2,5.8,FALSE
+Luxembourg,Norway,1,5.8,FALSE
+Luxembourg,Spain,1.5,5.8,FALSE
+Luxembourg,Sweden,0.875,5.9,FALSE
+Luxembourg,Switzerland,1.3,5.9,FALSE
+Luxembourg,Netherlands,1.1,5.9,FALSE
+Luxembourg,United Kingdom,2.7,5.8,FALSE
+Luxembourg,Yugoslavia,1.2,5.9,FALSE
+Monaco,Austria,1.875,5.8,FALSE
+Monaco,Belgium,1,5.9,FALSE
+Monaco,Denmark,0,5.8,FALSE
+Monaco,Finland,1,5.904999999999996,FALSE
+Monaco,France,3.3,5.8,FALSE
+Monaco,Germany,1.9,5.9,FALSE
+Monaco,Italy,2.7,5.9,FALSE
+Monaco,Luxembourg,1.8,5.704999999999996,FALSE
+Monaco,Norway,1.1111111111111112,5.9,FALSE
+Monaco,Spain,3,5.9,FALSE
+Monaco,Sweden,1.125,5.9,FALSE
+Monaco,Switzerland,1.7,5.8,FALSE
+Monaco,Netherlands,1.2,5.9,FALSE
+Monaco,United Kingdom,3,5.7,FALSE
+Monaco,Yugoslavia,1.3,5.9,FALSE
+Norway,Austria,1.25,6,FALSE
+Norway,Belgium,0.8888888888888888,5.777777777777778,FALSE
+Norway,Denmark,1.5,5.777777777777778,FALSE
+Norway,Finland,2.2222222222222223,5.888888888888889,FALSE
+Norway,France,1.3333333333333333,5.666666666666667,FALSE
+Norway,Germany,1.5555555555555556,5.666666666666667,FALSE
+Norway,Italy,1.5555555555555556,5.777777777777778,FALSE
+Norway,Luxembourg,1.6666666666666667,5.777777777777778,FALSE
+Norway,Monaco,1.7777777777777777,5.777777777777778,FALSE
+Norway,Spain,2,5.888888888888889,FALSE
+Norway,Sweden,3.375,5.888888888888889,FALSE
+Norway,Switzerland,1.4444444444444444,5.888888888888889,FALSE
+Norway,Netherlands,2.4444444444444446,5.783333333333329,FALSE
+Norway,United Kingdom,3.7777777777777777,5.672222222222217,FALSE
+Norway,Yugoslavia,1,5.888888888888889,FALSE
+Spain,Austria,1.75,5.9,FALSE
+Spain,Belgium,0.7,5.804999999999995,FALSE
+Spain,Denmark,0.75,6,FALSE
+Spain,Finland,1.1111111111111112,5.9,FALSE
+Spain,France,1.2,5.704999999999996,FALSE
+Spain,Germany,2.5,5.9,FALSE
+Spain,Italy,1.6,6.0049999999999955,FALSE
+Spain,Luxembourg,0.8,5.9,FALSE
+Spain,Monaco,1.3,6,FALSE
+Spain,Norway,1.2222222222222223,5.8,FALSE
+Spain,Sweden,0.625,5.9,FALSE
+Spain,Switzerland,1.1,5.8,FALSE
+Spain,Netherlands,1.3,5.8,FALSE
+Spain,United Kingdom,1.4,5.8,FALSE
+Spain,Yugoslavia,2,5.9,FALSE
+Sweden,Austria,2.4285714285714284,5.881249999999994,FALSE
+Sweden,Belgium,1,6,FALSE
+Sweden,Denmark,3.3333333333333335,6,FALSE
+Sweden,Finland,1,6,FALSE
+Sweden,France,1.5,6,FALSE
+Sweden,Germany,2.125,6,FALSE
+Sweden,Italy,1.875,5.75,FALSE
+Sweden,Luxembourg,2.5,5.881249999999994,FALSE
+Sweden,Monaco,2,5.875,FALSE
+Sweden,Norway,1.375,6.125,FALSE
+Sweden,Spain,1.625,6,FALSE
+Sweden,Switzerland,1.125,5.75,FALSE
+Sweden,Netherlands,1.5,5.875,FALSE
+Sweden,United Kingdom,3.125,5.875,FALSE
+Sweden,Yugoslavia,0.75,5.875,FALSE
+Switzerland,Austria,1.5,5.9,FALSE
+Switzerland,Belgium,0.9,5.9,FALSE
+Switzerland,Denmark,0.75,5.8,FALSE
+Switzerland,Finland,0.7777777777777778,5.9,FALSE
+Switzerland,France,2,5.8,FALSE
+Switzerland,Germany,1.8,6,FALSE
+Switzerland,Italy,2.8,6,FALSE
+Switzerland,Luxembourg,1.4,6,FALSE
+Switzerland,Monaco,1.6,5.8,FALSE
+Switzerland,Norway,0.6666666666666666,5.9,FALSE
+Switzerland,Spain,0.8,5.904999999999996,FALSE
+Switzerland,Sweden,1.5,5.8,FALSE
+Switzerland,Netherlands,1.5,5.7,FALSE
+Switzerland,United Kingdom,3.7,5.8,FALSE
+Switzerland,Yugoslavia,0.4,5.8,FALSE
+Netherlands,Austria,1.5,5.704999999999996,FALSE
+Netherlands,Belgium,1.5,5.8,FALSE
+Netherlands,Denmark,1.25,5.604999999999995,FALSE
+Netherlands,Finland,1.5555555555555556,5.8,FALSE
+Netherlands,France,2.6,5.804999999999995,FALSE
+Netherlands,Germany,1.1,5.8,FALSE
+Netherlands,Italy,1.6,5.9,FALSE
+Netherlands,Luxembourg,2.6,5.7,FALSE
+Netherlands,Monaco,2,5.8,FALSE
+Netherlands,Norway,0.7777777777777778,5.7,FALSE
+Netherlands,Spain,1.2,5.8,FALSE
+Netherlands,Sweden,2,6.0049999999999955,FALSE
+Netherlands,Switzerland,1.2,5.9,FALSE
+Netherlands,United Kingdom,2.5,5.8,FALSE
+Netherlands,Yugoslavia,1,5.8,FALSE
+United Kingdom,Austria,1.625,5.9,FALSE
+United Kingdom,Belgium,1.6,5.7,FALSE
+United Kingdom,Denmark,0.75,5.8,FALSE
+United Kingdom,Finland,2,5.804999999999995,FALSE
+United Kingdom,France,2,5.9,FALSE
+United Kingdom,Germany,1.7,5.8,FALSE
+United Kingdom,Italy,1.8,5.8,FALSE
+United Kingdom,Luxembourg,1.9,5.7,FALSE
+United Kingdom,Monaco,2.3,5.704999999999996,FALSE
+United Kingdom,Norway,1.2222222222222223,5.9,FALSE
+United Kingdom,Spain,1.5,5.9,FALSE
+United Kingdom,Sweden,1,6,FALSE
+United Kingdom,Switzerland,1.8,5.8,FALSE
+United Kingdom,Netherlands,1.7,5.8,FALSE
+United Kingdom,Yugoslavia,1.7,5.8,FALSE
+Yugoslavia,Austria,2.25,5.8,FALSE
+Yugoslavia,Belgium,0.6,5.9,FALSE
+Yugoslavia,Denmark,0,6,FALSE
+Yugoslavia,Finland,1.1111111111111112,5.9,FALSE
+Yugoslavia,France,2.2,5.8,FALSE
+Yugoslavia,Germany,1.5,5.8,FALSE
+Yugoslavia,Italy,2.5,5.8,FALSE
+Yugoslavia,Luxembourg,1.6,5.9,FALSE
+Yugoslavia,Monaco,1.8,5.904999999999996,FALSE
+Yugoslavia,Norway,1,5.8,FALSE
+Yugoslavia,Spain,1.4,5.804999999999995,FALSE
+Yugoslavia,Sweden,1.75,5.7,FALSE
+Yugoslavia,Switzerland,1.3,5.9,FALSE
+Yugoslavia,Netherlands,1.7,5.9,FALSE
+Yugoslavia,United Kingdom,2.4,5.9,FALSE
+Austria,Portugal,1.1428571428571428,5.875,FALSE
+Belgium,Portugal,1.5,5.7,FALSE
+Denmark,Portugal,0.3333333333333333,7,FALSE
+Finland,Portugal,0.875,5.777777777777778,FALSE
+France,Portugal,1.75,5.9,FALSE
+Germany,Portugal,0.75,5.9,FALSE
+Italy,Portugal,1.625,5.9,FALSE
+Luxembourg,Portugal,1.875,5.8,FALSE
+Monaco,Portugal,1.375,5.8,FALSE
+Norway,Portugal,1.125,5.666666666666667,FALSE
+Portugal,Austria,2.4285714285714284,6,FALSE
+Portugal,Belgium,1.875,6,FALSE
+Portugal,Denmark,0,5.875,FALSE
+Portugal,Finland,1.625,6,FALSE
+Portugal,France,1.5,5.75,FALSE
+Portugal,Germany,1.75,5.875,FALSE
+Portugal,Italy,2.125,6,FALSE
+Portugal,Luxembourg,1.625,5.875,FALSE
+Portugal,Monaco,1.25,6,FALSE
+Portugal,Norway,1.25,6.125,FALSE
+Portugal,Spain,2.625,5.875,FALSE
+Portugal,Switzerland,1,6,FALSE
+Portugal,Netherlands,1.75,5.875,FALSE
+Portugal,United Kingdom,1.75,6,FALSE
+Portugal,Yugoslavia,1.875,5.875,FALSE
+Spain,Portugal,3.5,5.904999999999996,FALSE
+Switzerland,Portugal,1.125,5.8,FALSE
+Netherlands,Portugal,1.25,6.1,FALSE
+United Kingdom,Portugal,1.25,5.8,FALSE
+Yugoslavia,Portugal,1.25,6,FALSE
+Austria,Ireland,3,5.75,FALSE
+Belgium,Ireland,2.875,5.804999999999995,FALSE
+Denmark,Ireland,0,7,FALSE
+Finland,Ireland,1.7142857142857142,5.777777777777778,FALSE
+France,Ireland,2,5.8,FALSE
+Germany,Ireland,1.875,5.9,FALSE
+Ireland,Austria,2.8333333333333335,6,FALSE
+Ireland,Belgium,1.25,6.125,FALSE
+Ireland,Denmark,0,6,FALSE
+Ireland,Finland,1.4285714285714286,6.125,FALSE
+Ireland,France,2.5,6.125,FALSE
+Ireland,Germany,1.75,6.125,FALSE
+Ireland,Italy,1.375,6.006249999999994,FALSE
+Ireland,Luxembourg,2.375,6,FALSE
+Ireland,Monaco,1.75,6,FALSE
+Ireland,Norway,1.8571428571428572,6,FALSE
+Ireland,Portugal,1.4285714285714286,6,FALSE
+Ireland,Spain,2,6,FALSE
+Ireland,Sweden,2,6.25,FALSE
+Ireland,Switzerland,2.25,5.875,FALSE
+Ireland,Netherlands,1.875,6.25,FALSE
+Ireland,United Kingdom,3.375,6.125,FALSE
+Ireland,Yugoslavia,1.25,6.125,FALSE
+Italy,Ireland,1.875,5.7,FALSE
+Luxembourg,Ireland,1.5,5.8,FALSE
+Monaco,Ireland,1.625,5.804999999999995,FALSE
+Norway,Ireland,1.4285714285714286,5.777777777777778,FALSE
+Portugal,Ireland,1.8571428571428572,6,FALSE
+Portugal,Sweden,2.142857142857143,5.756249999999994,FALSE
+Spain,Ireland,1.5,5.9,FALSE
+Sweden,Ireland,2,6,FALSE
+Sweden,Portugal,1.2857142857142858,5.875,FALSE
+Switzerland,Ireland,1.875,5.9,FALSE
+Netherlands,Ireland,2.5,5.7,FALSE
+United Kingdom,Ireland,2.125,6,FALSE
+Yugoslavia,Ireland,2.25,5.9,FALSE
+Austria,Malta,3,5.875,FALSE
+Belgium,Malta,3,5.9,FALSE
+Finland,Malta,4,5.888888888888889,FALSE
+France,Malta,2.5,5.7,FALSE
+Germany,Malta,3.5,5.904999999999996,FALSE
+Ireland,Malta,4,5.875,FALSE
+Italy,Malta,3,5.8,FALSE
+Luxembourg,Malta,2,5.8,FALSE
+Malta,Austria,4,8,FALSE
+Malta,Belgium,3.5,8.5,FALSE
+Malta,Finland,3.5,8.5,FALSE
+Malta,France,3.5,8,FALSE
+Malta,Germany,4.5,8.5,FALSE
+Malta,Ireland,6,8.5,FALSE
+Malta,Italy,6,8.024999999999977,FALSE
+Malta,Luxembourg,5.5,8.5,FALSE
+Malta,Monaco,5,8,FALSE
+Malta,Norway,4,8.5,FALSE
+Malta,Portugal,4,8.5,FALSE
+Malta,Spain,6,8.5,FALSE
+Malta,Sweden,4,9,FALSE
+Malta,Switzerland,4.5,8,FALSE
+Malta,Netherlands,2.5,8.5,FALSE
+Malta,United Kingdom,5,8.5,FALSE
+Malta,Yugoslavia,3,8.5,FALSE
+Monaco,Malta,2.5,5.7,FALSE
+Norway,Malta,2,5.777777777777778,FALSE
+Portugal,Malta,2,5.881249999999994,FALSE
+Spain,Malta,3.5,5.7,FALSE
+Sweden,Malta,2.5,6.006249999999994,FALSE
+Switzerland,Malta,2,5.804999999999995,FALSE
+Netherlands,Malta,4.5,5.604999999999995,FALSE
+United Kingdom,Malta,4.5,6,FALSE
+Yugoslavia,Malta,2,5.9,FALSE

@@ -1,0 +1,61 @@
+from,to,average,threshold,collusion
+Belgium,Ireland,5.5,5.4,TRUE
+Belgium,United Kingdom,5.9,5.4,TRUE
+Finland,Israel,6.333333333333333,5.4,TRUE
+Finland,Switzerland,6,5.5,TRUE
+France,United Kingdom,6.625,5.75,TRUE
+Germany,France,6.25,5.3,TRUE
+Germany,United Kingdom,6.1,5.5,TRUE
+Ireland,France,5.875,5.6,TRUE
+Israel,France,5.857142857142857,5.444444444444445,TRUE
+Israel,United Kingdom,6.111111111111111,5.449999999999996,TRUE
+Italy,France,6.571428571428571,5.631249999999994,TRUE
+Italy,Monaco,5.857142857142857,5.631249999999994,TRUE
+Luxembourg,France,6.25,5.104999999999995,TRUE
+Luxembourg,Israel,5.555555555555555,5.4,TRUE
+Luxembourg,United Kingdom,7.2,5.4,TRUE
+Monaco,France,7.166666666666667,5.857142857142857,TRUE
+Monaco,United Kingdom,7.142857142857143,5.714285714285714,TRUE
+Norway,Ireland,5.5,5.4,TRUE
+Norway,Israel,5.666666666666667,5.5,TRUE
+Norway,Switzerland,6.7,5.3,TRUE
+Portugal,Germany,5.5,5.404999999999996,TRUE
+Portugal,Italy,6,5.2,TRUE
+Portugal,United Kingdom,6.2,5.5,TRUE
+Spain,France,5.875,5.4,TRUE
+Spain,Germany,7.8,5.3,TRUE
+Sweden,France,6.857142857142857,5.444444444444445,TRUE
+Sweden,Ireland,7.111111111111111,5.555555555555555,TRUE
+Switzerland,France,7.25,5.304999999999995,TRUE
+Switzerland,Israel,6.222222222222222,5.2,TRUE
+Switzerland,United Kingdom,5.6,5.3,TRUE
+Netherlands,France,7.625,5.3,TRUE
+Netherlands,Israel,5.888888888888889,5.4,TRUE
+Netherlands,United Kingdom,5.8,5.5,TRUE
+United Kingdom,France,5.875,5.3,TRUE
+United Kingdom,Ireland,5.7,5.304999999999995,TRUE
+United Kingdom,Switzerland,6.2,5.3,TRUE
+Yugoslavia,United Kingdom,8.333333333333334,6,TRUE
+Greece,Ireland,8.571428571428571,5.714285714285714,TRUE
+Belgium,Malta,7,5.404999999999996,TRUE
+France,Malta,8,5.625,TRUE
+Malta,Netherlands,12,10,TRUE
+Turkey,Germany,8.4,6.4,TRUE
+Turkey,Spain,7,6.2,TRUE
+Austria,France,8,5.578571428571422,TRUE
+Austria,Israel,6.666666666666667,5.857142857142857,TRUE
+Austria,Switzerland,8.285714285714286,5.571428571428571,TRUE
+Austria,United Kingdom,8,5.571428571428571,TRUE
+Greece,France,7.166666666666667,5.714285714285714,TRUE
+Denmark,Germany,8,6,TRUE
+Denmark,Ireland,6.8,6.2,TRUE
+Denmark,Monaco,7,6.009999999999991,TRUE
+Denmark,United Kingdom,6.4,6,TRUE
+Italy,Morocco,7,5.625,TRUE
+Cyprus,Germany,10,8.024999999999977,TRUE
+Greece,Cyprus,12,5.714285714285714,TRUE
+Israel,Cyprus,6,5.444444444444445,TRUE
+Norway,Cyprus,9.5,5.5,TRUE
+Switzerland,Cyprus,5.5,5.4,TRUE
+Netherlands,Cyprus,10,5.5,TRUE
+United Kingdom,Cyprus,6.5,5.4,TRUE
