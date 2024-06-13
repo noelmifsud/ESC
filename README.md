@@ -22,7 +22,7 @@ descriptive_statistics.R: Generates descriptive statistics of the voting data.
 heatmaps_function.R: Creates heatmap visualizations of voting patterns.
 network_graphs_function.R: Generates network graphs to illustrate relationships between countries.
 
-Data:
+Dataset:
 
 ESCData.xlsx: The raw voting data for the ESC.
 
@@ -31,6 +31,8 @@ Results:
 ESC_....csv: Tables showing all countries' voting patterns, highlighting potentially unusual relationships.
 collusion_detected_ESC_....csv: Tables focusing only on countries with voting patterns strongly suggestive of collusion.
 ESC Desc Statistics.csv: Summary statistics of the voting data.
+
+Images:
 Heatmap images (.png): Visual representations of voting patterns, highlighting unusual behavior.
 Network graph images (.png): Visualizations of relationships between countries, particularly those suspected of collusion.
 
